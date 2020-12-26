@@ -31,11 +31,11 @@ URL: http://thanwar-quizapp.surge.sh/
 
 # Project # 7-A (Expense Tracker)
 
-URL: http://thanwar-redqueenrace.surge.sh/
+URL: https://thanwar-expensetracker-pwa.surge.sh/
 
 # Project # 7-A (Quiz App)
 
-URL: http://thanwar-tinyanimation.surge.sh/
+URL: https://thanwar-quiz-pwa.surge.sh/
 
 
 
