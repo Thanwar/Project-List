@@ -29,5 +29,15 @@ URL: http://thanwar-animatedwebsite.surge.sh/
 
 URL: http://thanwar-quizapp.surge.sh/
 
+# Project # 7-A (Expense Tracker)
+
+URL: http://thanwar-redqueenrace.surge.sh/
+
+# Project # 7-A (Quiz App)
+
+URL: http://thanwar-tinyanimation.surge.sh/
+
+
+
 
 
